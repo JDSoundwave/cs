@@ -23,7 +23,6 @@ namespace Zad._2._6
             Console.WriteLine(x);
 
             Console.ReadKey();
-
         }
     }
 }
