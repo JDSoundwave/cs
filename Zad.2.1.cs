@@ -12,7 +12,7 @@ namespace Zad._2._1
         {
             double cel, stopnie;
 
-            Console.WriteLine("Ile stopni Celsjusza powinienem zamieniæ na stopnie Fahrenheita: ");
+            Console.WriteLine("Ile stopni Celsjusza powinienem zamienic na stopnie Fahrenheita: ");
 
             cel = double.Parse(Console.ReadLine());
 
