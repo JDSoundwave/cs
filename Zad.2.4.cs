@@ -10,7 +10,7 @@ namespace Zad._2._4
     {
         static void Main(string[] args)
         {
-            // Wynikiem bêdzie liczba 202, pre-inkrementacja najpierw zwiêkszy wartoœæ do 101 a dopiero pozniej ja pomnozy przez 2
+            // Wynikiem bedzie liczba 202, pre-inkrementacja najpierw zwiekszy wartosc do 101 a dopiero pozniej ja pomnozy przez 2
 
             int x = 100;
 
