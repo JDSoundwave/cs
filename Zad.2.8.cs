@@ -25,7 +25,6 @@ namespace Zad._2._8
             Console.WriteLine(z);
 
             Console.ReadKey();
-
         }
     }
 }
