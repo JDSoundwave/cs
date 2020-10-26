@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zad._2._9.e
+namespace Zad._2._9.f
 {
     class Program
     {
