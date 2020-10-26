@@ -10,7 +10,7 @@ namespace Zad._2._9.a
     {
         static void Main(string[] args)
         {
-            // wynik = False x = 2 y = 4 z = 2
+            // wynik = False, x = 2, y = 4, z = 2
 
             int x = 1, y = 4, z = 2;
 
