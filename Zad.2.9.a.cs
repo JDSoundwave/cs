@@ -19,7 +19,6 @@ namespace Zad._2._9.a
             Console.WriteLine("wynik = {0} x = {1} y = {2} z = {3}", wynik, x, y, z);
 
             Console.ReadKey();
-
         }
     }
 }
