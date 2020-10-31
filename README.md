@@ -1,1 +1,1 @@
-# Programowanie obiektowe w języku C##
+# Programowanie obiektowe w języku C#
