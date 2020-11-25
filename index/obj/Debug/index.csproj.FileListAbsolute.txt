@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git\cs\index\bin\Debug\index.exe.config
+C:\Users\ASUS\Desktop\Git\cs\index\bin\Debug\index.exe
+C:\Users\ASUS\Desktop\Git\cs\index\bin\Debug\index.pdb
+C:\Users\ASUS\Desktop\Git\cs\index\obj\Debug\index.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git\cs\index\obj\Debug\index.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git\cs\index\obj\Debug\index.exe
+C:\Users\ASUS\Desktop\Git\cs\index\obj\Debug\index.pdb
