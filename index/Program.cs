@@ -11,58 +11,50 @@ namespace index
         static void Main(string[] args)
         {
 
-            double x, y, wynik = 0;
+            double a, b, c, x1, x2, x0, delta, pd;
 
-            char z;
+            Console.Write(@"Podaj wartość a: ");
 
-            Console.Write(@"Podaj pierwszą zmienną x: ");
+                a = double.Parse(Console.ReadLine());
 
-                x = double.Parse(Console.ReadLine());
+            Console.Write(@"Podaj wartość b: ");
 
-            Console.Write(@"Podaj drugą zmienną y: ");
+                b = double.Parse(Console.ReadLine());
 
-                y = double.Parse(Console.ReadLine());
+            Console.Write(@"Podaj wartość c: ");
 
-            Console.Write(@"Podaj znak działania: ");
-
-                z = char.Parse(Console.ReadLine());
-
-            switch(z)
-
-                {
-
-                case '+':
-                    wynik = x + y;
-                break;
+                c = double.Parse(Console.ReadLine());
 
 
-                case '-':
-                    wynik = x - y;
-                break;
+            delta = b * b - 4 * a * c;
 
+                Console.WriteLine("Delta wynosi: " + delta);
 
-                case '*':
-                    wynik = x * y;
-                break;
+            pd = Math.Sqrt(delta);
 
+                Console.WriteLine("Pierwiastek z delty wynosi: " + pd);
+                
 
-                case '/':
-                    wynik = x / y;
-                break;
+            if (delta > 0)
+            {
 
+                x1 = (- b - pd) / (2 * a);
+                x2 = (- b + pd) / (2 * a);
 
-                default:
-                    {
+                Console.WriteLine(@"Są dwa rozwiązania: x1 - " + x1 + " ,oraz: x2 - " + x2);
 
-                    Console.WriteLine(@"!!! Podano nieprawidłowy symbol. Wprowadź poprawny. !!!");
-                                                            
-                    }                  
-                    
-                break;                    
+            }
+            else if (delta == 0)
+            {
+                
+                    x0 = - b / (2 * a);
 
-                }
+                    Console.WriteLine(@"Istnieje tylko jedno rozwiązanie: x0 - " + x0);                       
 
-            Console.WriteLine(@"Wynik wynosi: " + wynik);
+            }
+            else
+
+                    Console.WriteLine(@"Brak rozwiązań.");                      
        
             Console.ReadKey();
         
