@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\index"
+    "\\index",
+    "\\index\\obj\\Debug",
+    "\\index\\obj\\Debug\\TempPE"
   ],
   "SelectedNode": "\\index\\Program.cs",
   "PreviewInSolutionExplorer": true

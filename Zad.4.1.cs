@@ -1,4 +1,4 @@
-ï»¿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +13,7 @@ namespace index
 
             int n, licznik = 0;
 
-                Console.Write(@"Podaj liczbÄ™ elementÃ³w tablicy: ");
+                Console.Write(@"Podaj liczbê elementów tablicy: ");
 
             n = int.Parse(Console.ReadLine());
 
@@ -24,7 +24,7 @@ namespace index
             for (int i = 0; i < n; i++)
             {
                 licznik++;
-                Console.Write("{0} element tablicy ma wartoÅ›Ä‡: ", licznik);
+                Console.Write("{0} element tablicy ma wartoœæ: ", licznik);
                 tab[i] = Convert.ToInt32(Console.ReadLine());
             }
 
