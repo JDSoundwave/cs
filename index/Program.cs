@@ -11,28 +11,36 @@ namespace index
         static void Main(string[] args)
         {
 
-            const int stala = 10;
+            double wzrost, waga, BMI;
 
-            int[]tab1 = { 3, 4, 7, -8, 12, 20, -9, 17, 2, -11 };
-            int[]tab2 = new int[stala];
+                Console.Write(@"Podaj wzrost(w metrach): ");
 
-            foreach (int x in tab1)
+            wzrost = int.Parse(Console.ReadLine());
+
+                Console.Write(@"Podaj wagę(w kg): ");
+
+            waga = int.Parse(Console.ReadLine());
+
+                Console.WriteLine();
+
+            BMI = waga / (wzrost * wzrost);
+                
+                Console.WriteLine(BMI);
+
+                Console.WriteLine();
+
+            if (BMI < 18.0)
             {
-                Console.Write(x + ", ");
+                Console.WriteLine(@"Masz niedowagę.");
             }
-
-            Console.WriteLine();
-
-            for (int i = 0; i < tab1.Length; i++)
+            else if (BMI >= 18.5 && BMI <= 24.99)
             {
-                if (tab1[i] < 0)
-                {
-                    tab2[i] = tab1[i];
-                }
-
-                Console.Write(tab2[i] + ", ");
-
-            }
+                Console.WriteLine(@"Twoja waga jest odpowiednia.");
+            }    
+            else
+            {
+                Console.WriteLine(@"Masz nadwagę.");
+            }               
 
             Console.ReadKey();
 
