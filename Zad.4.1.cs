@@ -24,7 +24,7 @@ namespace index
             for (int i = 0; i < n; i++)
             {
                 licznik++;
-                Console.Write("{0} element tablicy ma wartoœæ: ", licznik);
+                Console.Write(@"{0} element tablicy ma wartoœæ: ", licznik);
                 tab[i] = Convert.ToInt32(Console.ReadLine());
             }
 

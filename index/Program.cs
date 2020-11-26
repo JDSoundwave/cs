@@ -11,28 +11,27 @@ namespace index
         static void Main(string[] args)
         {
 
-            int n, licznik = 0;
+            const int stala = 10;
 
-                Console.Write(@"Podaj liczbę elementów tablicy: ");
+            int[]tab1 = { 3, 4, 7, -8, 12, 20, -9, 17, 2, -11 };
+            int[]tab2 = new int[stala];
 
-            n = int.Parse(Console.ReadLine());
-
-                Console.WriteLine();
-
-            int[] tab = new int[n];
-
-            for (int i = 0; i < n; i++)
+            foreach (int x in tab1)
             {
-                licznik++;
-                Console.Write("{0} element tablicy ma wartość: ", licznik);
-                tab[i] = Convert.ToInt32(Console.ReadLine());
+                Console.Write(x + ", ");
             }
 
             Console.WriteLine();
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < tab1.Length; i++)
             {
-                Console.Write(tab[i] + ", ");
+                if (tab1[i] < 0)
+                {
+                    tab2[i] = tab1[i];
+                }
+
+                Console.Write(tab2[i] + ", ");
+
             }
 
             Console.ReadKey();
