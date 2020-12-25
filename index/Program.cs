@@ -11,25 +11,10 @@ namespace index
         static void Main(string[] args)
         {
 
-            int rozmiar;
+            # Kurs programowania w języku C#
 
-            string x = "*";
 
-            Console.Write(@"Podaj rozmiar trójkąta: ");
-
-                rozmiar = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine();
-
-            for(int i = 0; i < rozmiar; i++)
-            {
-                for(int j = 0; j <= i; j++)
-                {
-                    
-                    Console.Write(x);
-
-                }
-                Console.WriteLine();
+            
             }
 
             Console.ReadKey();
