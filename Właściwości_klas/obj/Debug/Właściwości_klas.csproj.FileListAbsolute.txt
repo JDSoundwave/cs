@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\Właściwości_klas\bin\Debug\Właściwości_klas.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\Właściwości_klas\bin\Debug\Właściwości_klas.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Właściwości_klas\bin\Debug\Właściwości_klas.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\Właściwości_klas\obj\Debug\Właściwości_klas.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Właściwości_klas\obj\Debug\Właściwości_klas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Właściwości_klas\obj\Debug\Właściwości_klas.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Właściwości_klas\obj\Debug\Właściwości_klas.pdb

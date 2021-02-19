@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\PO_Egzamin_Łukasz_Dzwoniarkiewicz\bin\Debug\PO_Egzamin_Łukasz_Dzwoniarkiewicz.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\PO_Egzamin_Łukasz_Dzwoniarkiewicz\bin\Debug\PO_Egzamin_Łukasz_Dzwoniarkiewicz.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\PO_Egzamin_Łukasz_Dzwoniarkiewicz\bin\Debug\PO_Egzamin_Łukasz_Dzwoniarkiewicz.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\PO_Egzamin_Łukasz_Dzwoniarkiewicz\obj\Debug\PO_Egzamin_Łukasz_Dzwoniarkiewicz.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\PO_Egzamin_Łukasz_Dzwoniarkiewicz\obj\Debug\PO_Egzamin_Łukasz_Dzwoniarkiewicz.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\PO_Egzamin_Łukasz_Dzwoniarkiewicz\obj\Debug\PO_Egzamin_Łukasz_Dzwoniarkiewicz.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\PO_Egzamin_Łukasz_Dzwoniarkiewicz\obj\Debug\PO_Egzamin_Łukasz_Dzwoniarkiewicz.pdb

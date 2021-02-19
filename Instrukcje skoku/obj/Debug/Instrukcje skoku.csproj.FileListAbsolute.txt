@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\Instrukcje skoku\bin\Debug\Instrukcje skoku.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\Instrukcje skoku\bin\Debug\Instrukcje skoku.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Instrukcje skoku\bin\Debug\Instrukcje skoku.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\Instrukcje skoku\obj\Debug\Instrukcje skoku.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Instrukcje skoku\obj\Debug\Instrukcje skoku.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Instrukcje skoku\obj\Debug\Instrukcje skoku.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Instrukcje skoku\obj\Debug\Instrukcje skoku.pdb

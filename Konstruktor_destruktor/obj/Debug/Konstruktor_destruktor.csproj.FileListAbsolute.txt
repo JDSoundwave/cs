@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\Konstruktor_destruktor\bin\Debug\Konstruktor_destruktor.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\Konstruktor_destruktor\bin\Debug\Konstruktor_destruktor.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Konstruktor_destruktor\bin\Debug\Konstruktor_destruktor.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\Konstruktor_destruktor\obj\Debug\Konstruktor_destruktor.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Konstruktor_destruktor\obj\Debug\Konstruktor_destruktor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Konstruktor_destruktor\obj\Debug\Konstruktor_destruktor.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Konstruktor_destruktor\obj\Debug\Konstruktor_destruktor.pdb

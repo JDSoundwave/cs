@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\Funkcje\bin\Debug\Funkcje.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\Funkcje\bin\Debug\Funkcje.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Funkcje\bin\Debug\Funkcje.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\Funkcje\obj\Debug\Funkcje.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Funkcje\obj\Debug\Funkcje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Funkcje\obj\Debug\Funkcje.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Funkcje\obj\Debug\Funkcje.pdb

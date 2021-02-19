@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\Static_Non_Static\bin\Debug\Static_Non_Static.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\Static_Non_Static\bin\Debug\Static_Non_Static.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Static_Non_Static\bin\Debug\Static_Non_Static.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\Static_Non_Static\obj\Debug\Static_Non_Static.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Static_Non_Static\obj\Debug\Static_Non_Static.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Static_Non_Static\obj\Debug\Static_Non_Static.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Static_Non_Static\obj\Debug\Static_Non_Static.pdb

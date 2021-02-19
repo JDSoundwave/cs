@@ -9,3 +9,6 @@ C:\Users\ASUS\Desktop\Git Repository\cs\index\obj\Debug\index.csprojAssemblyRefe
 C:\Users\ASUS\Desktop\Git Repository\cs\index\obj\Debug\index.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\Git Repository\cs\index\obj\Debug\index.exe
 C:\Users\ASUS\Desktop\Git Repository\cs\index\obj\Debug\index.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\index\bin\Debug\index.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\index\bin\Debug\index.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\index\bin\Debug\index.pdb

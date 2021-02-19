@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\Dziedziczenie\obj\Debug\Dziedziczenie.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Dziedziczenie\obj\Debug\Dziedziczenie.pdb

@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\Konwersja typów\obj\Debug\Konwersja typów.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\Konwersja typów\bin\Debug\Konwersja typów.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\Konwersja typów\bin\Debug\Konwersja typów.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Konwersja typów\bin\Debug\Konwersja typów.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\Konwersja typów\obj\Debug\Konwersja typów.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\Konwersja typów\obj\Debug\Konwersja typów.pdb
