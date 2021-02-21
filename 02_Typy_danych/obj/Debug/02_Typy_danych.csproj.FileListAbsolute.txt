@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\02_Typy_danych\bin\Debug\02_Typy_danych.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\02_Typy_danych\bin\Debug\02_Typy_danych.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\02_Typy_danych\bin\Debug\02_Typy_danych.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\02_Typy_danych\obj\Debug\02_Typy_danych.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\02_Typy_danych\obj\Debug\02_Typy_danych.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\02_Typy_danych\obj\Debug\02_Typy_danych.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\02_Typy_danych\obj\Debug\02_Typy_danych.pdb

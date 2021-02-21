@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Git Repository\cs\01_Hello_World\bin\Debug\01_Hello_World.exe.config
+C:\Users\ASUS\Desktop\Git Repository\cs\01_Hello_World\bin\Debug\01_Hello_World.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\01_Hello_World\bin\Debug\01_Hello_World.pdb
+C:\Users\ASUS\Desktop\Git Repository\cs\01_Hello_World\obj\Debug\01_Hello_World.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\01_Hello_World\obj\Debug\01_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Git Repository\cs\01_Hello_World\obj\Debug\01_Hello_World.exe
+C:\Users\ASUS\Desktop\Git Repository\cs\01_Hello_World\obj\Debug\01_Hello_World.pdb

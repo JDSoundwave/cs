@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Właściwości_klas"
+    "\\01_Hello_World",
+    "\\Typy danych"
   ],
-  "SelectedNode": "\\Właściwości_klas\\Program.cs",
+  "SelectedNode": "\\Typy danych\\Program.cs",
   "PreviewInSolutionExplorer": true
 }
